@@ -1,0 +1,16 @@
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.csproj.AssemblyReference.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.AssemblyInfoInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.AssemblyInfo.cs
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.csproj.CoreCompileInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.exe
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.deps.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.runtimeconfig.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.runtimeconfig.dev.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\ref\HW8Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\bin\Debug\net5.0\HW8Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\ref\HW8Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW8\HW8\HW8\obj\Debug\net5.0\HW8Solution.genruntimeconfig.cache
